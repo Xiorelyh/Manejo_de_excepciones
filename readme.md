@@ -21,7 +21,7 @@ Items necesarios:
 
 Encuesta predefinida, interactiva con el usuario:
 
-- `main.py`: Script principal que solicita al usuario ingresar las dimensiones y la ruta de la foto. Maneja los errores utilizando la clase `DimensionError`.
+- `prueba.py`: Script principal que solicita al usuario ingresar las dimensiones y la ruta de la foto. Maneja los errores utilizando la clase `DimensionError`.
 - `foto.py`: Contiene la clase `Foto`, que se encarga de crear y validar objetos foto con dimensiones y ruta proporcionadas.
 - `error.py`: Define la clase `DimensionError`, que se utiliza para manejar errores cuando las dimensiones de la foto no son válidas.
 
