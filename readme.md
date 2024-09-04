@@ -11,12 +11,6 @@
 
 Este proyecto consiste en un script de Python que valida las dimensiones de una foto ingresada por el usuario y verifica su ruta. El proyecto utiliza clases personalizadas para manejar errores específicos relacionados con las dimensiones de la foto.
 
-Items necesarios:
-
-- Crear un diagrama de clases para visualizar el flujo del proyecto.
-- Realizar backend logico que necesitara cada clase para implementarse en un archivo principal.
-
-
 ## Contenido
 
 Encuesta predefinida, interactiva con el usuario:
